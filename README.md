@@ -17,10 +17,10 @@ The dataset is sourced from the Ministry of Agriculture, India and contains info
 
 Key Insights
 
-✔ Madhya Pradesh, Rajasthan, and UP have the highest cultivation area, while Puducherry has the highest rice yield in 2019-20.
-✔ Rabi season shows the highest average rice yield, likely due to controlled irrigation.
-✔ Despite increasing cultivated area, yield remains stable, indicating the role of irrigation, soil quality, and farming techniques.
-✔ Correlation between production & yield is 0.44, meaning yield increases with production but is not directly dependent on area expansion.
+1) Madhya Pradesh, Rajasthan, and UP have the highest cultivation area, while Puducherry has the highest rice yield in 2019-20.
+2) Rabi season shows the highest average rice yield, likely due to controlled irrigation.
+3) Despite increasing cultivated area, yield remains stable, indicating the role of irrigation, soil quality, and farming techniques.
+4) Correlation between production & yield is 0.44, meaning yield increases with production but is not directly dependent on area expansion.
 
 Data Visualization
 
